@@ -1,4 +1,4 @@
-package cloudsql
+package mysql
 
 import (
 	"cloud.google.com/go/cloudsqlconn"
